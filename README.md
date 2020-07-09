@@ -1,4 +1,10 @@
-### Hi there 👋
+### console.log("Hello world 👋")
+
+I'm from Argentina, currently working at Ank (fintech), and using [React Native](https://reactnative.dev/) to build mobile apps.
+
+Building: https://consistencss.now.sh/
+
+él/he/him
 
 <!--
 **mateosilguero/mateosilguero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
