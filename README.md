@@ -9,7 +9,7 @@ Building: https://consistencss.now.sh/
 <a href="https://twitter.com/mateosilguero1">
   <img align="left" alt="Mateo Silguero | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<br>
+<br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mateosilguero&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
