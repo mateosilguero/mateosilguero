@@ -1,6 +1,6 @@
 ### console.log("Hello world 👋")
 
-I'm from Argentina, currently working at ank (fintech), and using [React Native](https://reactnative.dev/) to build mobile apps.
+I'm from Argentina, currently working at MODO (fintech), and using [React Native](https://reactnative.dev/) to build mobile apps.
 
 Building: https://consistencss.now.sh/
 
